@@ -1,0 +1,9 @@
+replicaCount: 1
+service:
+  type: NodePort
+ingress:
+  enabled: false
+autoscaling:
+  enabled: false
+podDisruptionBudget:
+  enabled: false
