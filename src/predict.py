@@ -38,7 +38,7 @@ def to_frame(records):
 def predict_records(model, records, threshold=0.5):
     out = []
     for p in model.predict_proba(to_frame(records))[:, 1]:
-        pred = int(p >= threshold)
+        pred = int(p < threshold)
         out.append({"prediction": pred, "label": "heart_disease" if pred else "no_heart_disease", "probability_disease": round(float(p), 4),
                     "confidence": round(float(p if pred else 1 - p), 4), "risk_level": risk_level(float(p))})
     return out
