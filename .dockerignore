@@ -17,3 +17,4 @@ test
 models/mlflow_model
 *.md
 *.pdf
+video
