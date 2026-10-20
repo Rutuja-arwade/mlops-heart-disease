@@ -1,9 +1,14 @@
 # heart disease mlops
 MLOps assignment 1 - heart disease prediction on UCI cleveland data. report is in report.pdf (10 pages) , screenshots folder has the screenshots
 
-video of the whole pipeline (about 8.5 min screen recording, no audio):
-- drive - https://drive.google.com/file/d/1BIK8L5S573MXqQtXSKFjAlnojAxp2jKt/view?usp=sharing
-- same video in this repo - video/pipeline_walkthrough.mp4
+# Submitted by:
+- Name: ARWADE RUTUJA NITIN
+- ID: 2025ae05375
+
+drive links for assignment submissions:
+- video - https://drive.google.com/file/d/1BIK8L5S573MXqQtXSKFjAlnojAxp2jKt/view?usp=sharing
+  ( same video in this repo - video/pipeline_walkthrough.mp4 )
+- report - https://drive.google.com/file/d/1II87jhtBAMi7yg58JTIyyrFL6TG-nNia/view?usp=sharing
 
 setup (python 3.11)
 ```
