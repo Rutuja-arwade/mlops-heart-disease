@@ -1,7 +1,7 @@
-# heart disease mlops
+# Heart Disease MLOps Assignment
 MLOps assignment 1 - heart disease prediction on UCI cleveland data. report is in report.pdf (10 pages) , screenshots folder has the screenshots
 
-# Submitted by:
+## Submitted by:
 - Name: ARWADE RUTUJA NITIN
 - ID: 2025ae05375
 
